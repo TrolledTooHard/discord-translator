@@ -1,6 +1,8 @@
 # discord-translator
 A simple discord tool that translates english to either spanish, german or french and sends it. Free to rework but please give me credit.
 
+Run 'setup.bat' to install correct modules or do it manually.
+
 Put your token in 'config.json', it uses this to send the messages with requests and to get info from the token to make sure its valid and for the UI.
 
 If it stops translating and sends english then you are ratelimited on your ip, just use a vpn or wait a while.
